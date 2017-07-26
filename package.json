@@ -17,7 +17,7 @@
   },
   "homepage": "",
   "dependencies": {
-    "infusion": "2.0.0",
+    "infusion": "2.0.0"
   },
   "devDependencies": {
     "eslint-config-fluid": "1.1.0",
