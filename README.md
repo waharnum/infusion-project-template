@@ -1,6 +1,6 @@
 # infusion-project-template
 
-A basic template for new Infusion projects.
+A basic template for new Infusion projects (front-end ones).
 
 1. `git clone --depth=1 --branch=master https://github.com/waharnum/infusion-project-template.git newProject` (rename `newProject` to your project directory)
 2. `cd newProject` and `rm -rf .git`
@@ -15,3 +15,4 @@ Features:
 
 1. Linter configured (may need to change paths in `Gruntfile.js`)
 2. `pre-commit` can be installed in `.git/hooks` to run the linter before committing (and fail commit if linting doesn't pass)
+3. Placeholder implementation and test files
