@@ -1,6 +1,6 @@
 # infusion-project-template
 
-A basic template for new Infusion projects (front-end ones).
+A basic template for new front-end Infusion projects.
 
 1. `git clone --depth=1 --branch=master https://github.com/waharnum/infusion-project-template.git newProject` (rename `newProject` to your project directory)
 2. `cd newProject` and `rm -rf .git`
